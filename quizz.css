@@ -1,0 +1,9 @@
+body{
+    background-color: darkslategray;
+}
+
+h1.titre_principal
+{
+    color: white;
+    text-align: center;
+}
